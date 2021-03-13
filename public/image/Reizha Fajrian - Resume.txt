@@ -1,0 +1,54 @@
+Reizha Fajrian
+
++6285155208046
+
+Hello I really like writing code and solving problems, I can write code in many programming languages ​​because I am interested in trying new things, then I think the programming language is very similar from one language to another so it's easy to learn, even though it's a lot code that I write in various programming languages ​​but I decided to explore a few programming languages ​​such as javascript, kotlin, java, and python, the reason I focus on this language is because they can all be used on many platforms, I have some experience in development Mobile and web applications, I once had the opportunity to become a team developer of the gravote application, which is an application for voting to be used for my campus, for the experience of creating a website I had an experience at one of the Indonesian startups in Yogyakarta called latih.id, then I has several personal projects such as ordering applications bus tickets, and concert ticket booking websites, created a dashboard using react.js using a library called core.ui then I made the app and web connected in the payment system via midtrans
+
+PERSONAL INFORMATION
+  Address: , , 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SOCIAL PROFILES
+  * Github Porto: https://github.com/reizhafajrian
+  * Linked In: https://www.linkedin.com/in/reizha-fajrian-584407115/
+
+LANGUAGES
+  ★★★★☆ English
+  ★★★☆☆ Japanese
+
+SKILLS
+  ★★★★★ Problem Solving
+  ★★★★★ Communication
+  ★★★★★ Teamwork
+  ★★★★★ Decision Making
+  ★★★☆☆ Kotlin
+  ★★★★☆ JavaScript
+  ★★★★☆ React
+  ★★★☆☆ Laravel Framework
+  ★★★☆☆ Node.js
+
+EDUCATION
+  * 2014 – 2017
+    Sma Negeri 11 Depok, Depok 
+  * 2018 – Present
+    Universitas Pembangunan Nasional "Veteran" Jakarta, Jakarta Bachelor of Computer Science
+
+INTERNSHIPS
+  * October 2020 – January 2021
+    Web Developer at Latih.id, Yogyakarta
+
+COURSES
+  * September 2020 – Present
+    Build a Website on Google Cloud , Google Cloud
+  * September 2020 – Present
+    Insights from Data with BigQuery , Google Cloud
+  * November 2020 – November 2023
+    Build Progressive Web Apps, Dicoding Academy
+  * September 2020 – September 2023
+    Learn to Make Augmented Reality, Dicoding Academy
+
+REFERENCES
+  *  from 
+
