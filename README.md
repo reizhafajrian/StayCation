@@ -73,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ###Preview
 
-![Alt Text](https://github.com/reizhafajrian/StayCation/edit/master/gif/front-end.gif)
+![Alt Text](https://github.com/reizhafajrian/StayCation/master/gif/front-end.gif)
